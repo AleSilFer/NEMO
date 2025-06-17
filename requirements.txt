@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pydantic
+requests
+googlemaps
+google-cloud-firestore
+google-cloud-workflows-executions

@@ -1,0 +1,7 @@
+# Dependências da Cloud Function de Manutenção
+functions-framework
+google-cloud-firestore
+google-cloud-secret-manager
+PyGithub
+requests
+packaging
